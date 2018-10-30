@@ -9,7 +9,21 @@ function setup() {
     fill(255, 130, 0)
     stroke(0)
     triangle(0, 30, 40, 0, 80, 30)
-    rect(5, 30, 70, 70)
+    //rect(5, 30, 70, 70)
+    square(5, 30, 70) 
+  }
+
+  function square(x, y, size) {
+      rect(x, y, size, size)
+
+  }
+
+  function roof(x, y) {
+
+  }
+
+  function house(x, y) {
+      
   }
 
 // A function draw continuously executes the lines of code contained inside its block until the program is stopped or noLoop() is called

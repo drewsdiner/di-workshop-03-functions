@@ -98,6 +98,8 @@ Replace `rect(5, 30, 70, 70)` with `square(5, 30, 70)` and run your code.
 
 **What’s going on here? What might `x, y, size` mean?**
 
+RESEARCH YOUR UNDERSTANDING ON THIS
+
 **Add a comment above your function saying what the inputs and outputs of your
 function are (name, description, data type) and what your functions does.** You
 should add a comment like this to every function you write.
